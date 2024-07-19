@@ -203,4 +203,4 @@ if __name__ == "__main__":
     print("\n" + "Joining short summaries to file...")
     joined_document(final_folder)
     pdf_count = len([entry for entry in os.listdir(folder_path) if entry.lower().endswith('.pdf')])
-    print("\n" + str(pdf_count) + " PDFs finished processing in %s seconds!" % (time.time() - start_time) + "\n")
+    print("\n" + str(pdf_count) + " PDFs finished processing in %s seconds!" % round((time.time() - start_time), 2) + "\n")
