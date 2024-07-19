@@ -11,6 +11,7 @@
 # Instrucions:
 # Install the required libraries in your terminal of choice: 'PyPDF2' & 'groq'
 # Edit this script to (1)Include a free Groq API token, (2)Substitute the default prompts to your liking, (3)Modify AI query parameters for your use, (4)Edit rate limits and chunk size accordingly.
+# Run the script with Python3 for your folder of PDFs like so: 'python PaperLensAI.py <input-folder>'
 
 import os
 import sys
