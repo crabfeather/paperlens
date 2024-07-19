@@ -22,7 +22,7 @@ pip --version
 pip install PyPDF2
 pip install groq
 ```
-4. Edit the script to include a free Groq API key gotten from https://console.groq.com/keys
+4. Edit the script to include a free Groq API key generated from https://console.groq.com/keys
 5. Modify the prompts and AI query paramters in the script to your liking. If needed edit the rate limits and chunk size accordingly.
 6. Run the script with Python for your folder of PDFs:
 ```
