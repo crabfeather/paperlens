@@ -195,7 +195,6 @@ if __name__ == "__main__":
     os.makedirs(final_folder, exist_ok=True)
 
     # Run extraction and summarizer
-    print("\n" + "Extracting texts from PDFs...")
     extract_texts_from_folder(folder_path)
     print("\n" + "Processing long summarization...")
     process_folder(output_folder)
