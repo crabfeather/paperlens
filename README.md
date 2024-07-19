@@ -4,7 +4,7 @@
 PaperLens AI is a Python tool for summarizing and applying topic model methods on a large number of research papers completely for free using the *Groq* API. It was developed primarily for doing quick literature reviews during my internship at Stockholm School of Economics, but can also be used for basic Retrieval-Augmented Generation (RAG). Using the default settings it can process ca 4 standard-length papers/minute using the *Llama3 8B* model.<br/>
 
 ### How to use:
-1. Install the script by running one of two below commands in a terminal depending on your OS:
+1. Install the script by running one of below commands in a terminal depending on your OS:
 
 Windows PowerShell:
 ```
