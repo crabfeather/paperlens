@@ -30,7 +30,7 @@ pip install groq
 ```
 python PaperLensAI.py <input-folder>
 ```
-
+<br/>
 ### Contact:
 Allan Edh\
 Research Intern, *Stockholm School of Economics* (SSE)\
