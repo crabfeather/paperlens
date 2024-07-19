@@ -1,7 +1,7 @@
 # PaperLens AI
 
 ### Description:
-PaperLens AI is a tool developed for summarizing and doing topic modelling completely free on a large number of research paper PDFs using the Groq API -- mainly beneficial for literature reviews.
+PaperLens AI is a tool developed for summarizing and doing topic modelling completely free on a large number of research paper PDFs using the Groq API -- mainly beneficial for literature reviews. Using the default settings it can process ca 4 papers/minute using *Llama3 8B*.
 ### How to use:
 1. Install the script by running one of two below commands in a terminal:
 Windows PowerShell:
