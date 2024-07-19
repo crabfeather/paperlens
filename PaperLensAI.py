@@ -7,7 +7,7 @@
 #   By: Allan Edh (allan.edh@gmail.com)
 #
 # Description:
-# PaperLens AI is a tool developed for summarizing and doing topic modelling completely free on a large number of research paper PDFs -- mainly beneficial for litterature reviews.
+# PaperLens AI is a tool developed for summarizing and doing topic modeling completely free on a large number of research paper PDFs -- mainly beneficial for litterature reviews.
 # Instrucions:
 # Install the required libraries in your terminal of choice: 'PyPDF2' & 'groq'
 # Edit this script to (1)Include a free Groq API token, (2)Substitute the default prompts to your liking, (3)Modify AI query parameters for your use, (4)Edit rate limits and chunk size accordingly.
