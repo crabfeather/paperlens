@@ -31,7 +31,6 @@ python PaperLensAI.py <input-folder>
 ```
 
 ### Contact:
-
 Allan Edh
-Research Intern, *Stockholm School of Economics (SSE)*
+Research Intern, Stockholm School of Economics (SSE)
 allan.edh@gmail.com
