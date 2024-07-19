@@ -1,7 +1,8 @@
 # PaperLens AI
 
 ### Description:
-PaperLens AI is a Python tool for summarizing and performing topic modelling on a large number of research paper PDFs completely free using the Groq API. It is mainly beneficial for topic modelling and quick literature reviews, and was developed as my time as a research intern at Stockholm School of Economics. Using the default settings it can process ca 4 papers/minute using the *Llama3 8B* model.<br/> 
+PaperLens AI is a Python tool for summarizing and performing topic modelling on a large number of research paper PDFs completely free using the Groq API. It is mainly beneficial for topic modelling and quick literature reviews, and was developed as my time as a research intern at Stockholm School of Economics. Using the default settings it can process ca 4 papers/minute using the *Llama3 8B* model.<br/>
+<br/>
 Note: The tool is not equivalent to manual work but instead serves as a faster method for making a selection from many articles or applying a certain topic model.
 
 ### How to use:
