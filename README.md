@@ -10,11 +10,11 @@ Note: The tool is not equivalent to manual work but instead serves as a faster m
 
 Windows PowerShell:
 ```
-iwr https://github.com/crabfeather/paperlens/blob/main/PaperLensAI.py -O PaperLensAI.py
+iwr https://raw.githubusercontent.com/crabfeather/paperlens/main/PaperLensAI.py -O PaperLensAI.py
 ```
 Linux/MacOS:
 ```
-curl -O https://github.com/crabfeather/paperlens/blob/main/PaperLensAI.py
+curl https://raw.githubusercontent.com/crabfeather/paperlens/main/PaperLensAI.py -o PaperLensAI.py
 ```
 2. Verify the latest version of Python3 and PIP are installed by running:
 ```
