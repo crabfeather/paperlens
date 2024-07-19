@@ -173,7 +173,7 @@ def joined_document(folder_path):
         # Write joined content to outfile   
         with open(joined_filename, 'w', encoding='utf-8') as joined_file:
             joined_file.write(joined)
-        print("\n" + "---------------------------------------------------" + "\n" + "'" + joined_filename + "'" + " saved to: " + file_path)
+        print("\n" + "---------------------------------------------------" + "\n\n" + "'" + joined_filename + "'" + " saved to: " + file_path)
 
     except Exception as e: 
         print(f"Error creating joined text file: {e}")
