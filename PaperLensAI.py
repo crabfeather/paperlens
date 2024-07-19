@@ -205,4 +205,4 @@ if __name__ == "__main__":
     joined_document(final_folder)
     pdf_count = len([entry for entry in os.listdir(folder_path) if entry.lower().endswith('.pdf')])
     print("\n" + str(pdf_count) + " PDFs finished processing in %s seconds." % (time.time() - start_time) + "\n")
-    print("Thank you for using PaperLensAI, created by Allan Edh. Feel free to contact allan.edh@gmail.com for questions." + "\n")
+    print("Thank you for using PaperLens AI, created by Allan Edh. Feel free to contact allan.edh@gmail.com for questions." + "\n")
