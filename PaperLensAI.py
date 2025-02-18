@@ -4,7 +4,7 @@
 # / ____/ /_/ / /_/ /  __/ /  / /___/  __/ / / (__  )  / ___ |_/ /   
 #/_/    \__,_/ .___/\___/_/  /_____/\___/_/ /_/____/  /_/  |_/___/   
 #           /_/                                                      
-#   By: Allan Edh (allan.edh@gmail.com)
+#   By: Allan Edh @crabfeather
 #
 # Description:
 # PaperLens AI is a tool developed for summarizing and doing topic modeling completely free on a large number of research paper PDFs -- mainly beneficial for litterature reviews.
